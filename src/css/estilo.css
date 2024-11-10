@@ -1,0 +1,35 @@
+*{
+    background: linear-gradient(to right, bisque, black)   
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: to right, bisque, black; 
+}
+
+
+#adicionarTarefa{
+    margin-top: 50px;
+    margin-left: 42%;
+    background: linear-gradient(to right, blue, violet); 
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, blue, violet); 
+     
+}
+
+p,h1{
+    justify-content: center; 
+    display: flex; 
+}
+
+#removerTarefa{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, blue, violet);  
+    
+}
+#text{
+    background: linear-gradient(to right, gray, bisque);   
+}
